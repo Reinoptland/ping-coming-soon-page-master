@@ -1,0 +1,76 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+}
+
+.logo {
+  margin: auto;
+  margin-top: 80px;
+  width: 90px;
+  display: block;
+}
+
+h1 {
+  color: #969696;
+  font-weight: lighter;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+strong {
+  color: #15202a;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  color: #15202a;
+  text-align: center;
+  font-weight: lighter;
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
+
+.inputs {
+  margin: auto;
+  width: 652px;
+  margin-top: 40px;
+}
+
+input {
+  margin-right: 16px;
+  padding: 18px 240px 18px 30px;
+  color: #b8c7ed;
+  font-size: 16px;
+  border: 1px solid #c2d3ff;
+  border-radius: 28px;
+}
+
+button {
+  padding: 18px 62px 18px 62px;
+  background-color: #4c7bf3;
+  color: white;
+  font-size: 16px;
+  border: 1px solid #4c7bf3;
+  border-radius: 28px;
+}
+
+.illustration {
+  width: 640px;
+  display: block;
+  margin: auto;
+  margin-top: 94px;
+}
+
+.icons {
+  width: 120px;
+  margin: auto;
+  margin-top: 72px;
+}
+
+p {
+  color: #969696;
+  text-align: center;
+  margin-top: 25px;
+}
